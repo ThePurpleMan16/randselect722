@@ -25,4 +25,8 @@ This is an in-class coding exercise.
 - Standard library plus streamlit only. Ask before adding any other
   dependency.
 - Preserve existing behaviour unless asked to change it.
+<<<<<<< HEAD
 - Reuse existing code rather than duplicating logic.
+=======
+- Reuse existing code rather than duplicating logic.
+>>>>>>> 1810ee5 (2nd commit - implemented the st app)
