@@ -1,3 +1,5 @@
+import random
+
 def available_choices(items, used):
     """Return items not present in `used`, preserving order."""
     return [item for item in items if item not in used]
